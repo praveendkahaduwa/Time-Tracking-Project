@@ -21,3 +21,7 @@ Through this dashboard, I practiced:
 - Writing advanced DAX for date and time manipulation
 - Designing performance-optimized visuals
 
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](WC.png)
+
